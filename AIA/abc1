@@ -3,10 +3,7 @@ hi this is commit c1 in feature/release AIA
 hi this is commit c2 in feature/release AIA
 hi this is commit c3 in feature/release AIA
 
-<<<<<<< HEAD
 hi this is commit c5 in feature/release AIA
-=======
-hi this is commit c1 in feature/merge-conflicts
-hi this is commit c2 in feature/merge-conflicts
 hi this is commit c3 in feature/merge-conflicts
->>>>>>> 1d26be227dcaf8e24afc7f1c11fddff3c43622cb
+
+hi this is new commit in feature/release AIA
